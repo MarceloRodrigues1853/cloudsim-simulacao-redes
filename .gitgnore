@@ -1,0 +1,32 @@
+# Compilação do Java
+*.class
+
+# Arquivos de log
+*.log
+
+# Diretórios do NetBeans
+nbproject/private/
+build/
+dist/
+
+# Arquivos temporários do sistema
+*.tmp
+*.bak
+*.swp
+*~
+
+# Configurações do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+.vscode/
+
+# Arquivos gerados
+*.jar
+*.war
+*.ear
