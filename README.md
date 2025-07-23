@@ -28,10 +28,13 @@ Demonstrar a criação e execução de simulações com o framework CloudSim no 
 
 ## 🖼️ Exemplos de Execução
 Veja abaixo alguns exemplos da execução no console do NetBeans:
+### Iniciando o Projeto
 ![Iniciando o Projeto](imagens/iniciando-projeto-netbeans.png)
 
+### Configuração do Projeto
 ![Configuração do Projeto](imagens/etapa1-conf.png)
 
+### Exemplos de Execução
 ![Exemplo 1](imagens/ex1_redes.png)
 ![Exemplo 2](imagens/ex2_redes.png)
 ![Exemplo 3](imagens/ex3_redes.png)
