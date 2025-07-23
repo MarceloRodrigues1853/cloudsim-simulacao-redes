@@ -34,7 +34,7 @@ Veja abaixo alguns exemplos da execução no console do NetBeans:
 ### Configuração do Projeto
 ![Configuração do Projeto](imagens/etapa1-conf.png)
 
-### Exemplos de Execução
+### Execução dos Testes
 ![Exemplo 1](imagens/ex1_redes.png)
 ![Exemplo 2](imagens/ex2_redes.png)
 ![Exemplo 3](imagens/ex3_redes.png)
